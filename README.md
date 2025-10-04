@@ -1,2 +1,3 @@
 # DTTask
-WhatsApp-like frontend developed using HTML, CSS, and JavaScript. Responsive chat interface with sidebar contacts, message history, and text area. Messages and chat information are dynamically retrieved from JSON, demonstrating DOM manipulation, event handling, and interactive UI development.
+
+This is a WhatsApp-like frontend created with HTML, CSS, and JavaScript. As no Figma file or design resources were given, this is the maximum I could achieve by designing the layout and functionality on my own assumptions. It shows creation of webpages, a responsive chat interface, and dynamic features like rendering chats and messages from JSON data.
